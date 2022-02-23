@@ -1,0 +1,1 @@
+# kisiye-ozel-wordlist
