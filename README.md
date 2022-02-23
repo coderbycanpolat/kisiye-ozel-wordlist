@@ -2,13 +2,7 @@
 
 <h2> TERMUX KİŞİYE ÖZEL WORDLİST </h2>
 
-</div>
 
-
-
-
-
-</br>
 
 ---
 
