@@ -2,8 +2,8 @@
 
 <h2> ~ TERMUX  İLE KİŞİYE ÖZEL WORDLİST YAPMA ~</h2>
 
-
----
+BRUTE FORCE ATAKLARINDA YADA BAŞKA SALDIRILARDA İŞİNİZE YARAYAN TOOL
+----------------------------------------------------------------------
 
 <i>TAKİP ET :</i><br>
 
