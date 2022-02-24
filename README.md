@@ -1,7 +1,6 @@
 <div align="center">
 
-<h2> ~ TERMUX  İLE KİŞİYE ÖZEL WORDLİST YAP ~</h2>
-
+<h2> ~ TERMUX  İLE KİŞİYE ÖZEL WORDLİST YAPMA ~</h2>
 
 
 ---
