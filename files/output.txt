@@ -1,0 +1,14 @@
+
+ad=AKİF
+soyad=GÖKKAYA
+sehir=AHLAT
+memleket=BİTLİS
+splaka=31
+mplaka=31
+yil=2000
+dogumyil=2003
+dogumay=03
+dogumgun=21
+takim=FENERBAHÇE
+ktakim=FB
+tyil=1907
